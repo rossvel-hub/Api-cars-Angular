@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Mazda",
+        "description": "Marca de automóviles japonesa"
+    },
+    {
+        "id": 2,
+        "name": "Tesla",
+        "description": "Marca de automóviles Americana"
+    },
+    {
+        "id": 3,
+        "name": "Subaru",
+        "description": "Marca de automóviles japonesa"
+    },
+    {
+        "id": 4,
+        "name": "Porsche",
+        "description": "Marca de automóviles italiana"
+    },
+    {
+        "id": 5,
+        "name": "Honda",
+        "description": "Marca de automóviles japonesa"
+    },
+    {
+        "id": 6,
+        "name": "lexus",
+        "description": "Marca de automóviles japonesa"
+    },
+    {
+        "id": 7,
+        "name": "Toyota",
+        "description": "Marca de automóviles japonesa"
+    },
+    {
+        "id": 8,
+        "name": "Chrysler",
+        "description": "Marca de automóviles americana"
+    },
+    {
+        "id": 9,
+        "name": "Buick",
+        "description": "Marca de automóviles americana"
+    },
+    {
+        "id": 10,
+        "name": "Hyundai",
+        "description": "Marca de automóviles korea"
+    },
+    {
+        "id": 11,
+        "name": "Audi",
+        "description": "Marca de automóviles alemana"
+    },
+    {
+        "id": 12,
+        "name": "infiniti",
+        "description": "Marca de automóviles japonesa"
+    }
+]
